@@ -1,0 +1,160 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Admirable good newes againe from Ireland. Or, the copie of a letter written from Sir Thomas Lucas, one of the commanders of our army in Ireland, to a worthy member of the House of Parliament here in England, bearing date, Fbruary [sic], 24. 1641. Wherein is a relation of two great overthrowes which was given to the rebels by the English and Scottish forces: the one before Tredarth within the province of Munster, February 23. 1641. The other gtreat [sic] victorie was obtained by the English and Scots under the command of the Earle of Dungarvin and Generall Lesley, and others, in the province of Corke, where 5000 rebels were slaine, 100 taken prisoners and executed. With the estate of Ireland at this present. Published by authority.</title>
+            <author>Lucas, Thomas, Sir, d. 1649.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88637</idno>
+            <idno type="STC">Wing L3423</idno>
+            <idno type="STC">Thomason E137_7</idno>
+            <idno type="STC">ESTC R9941</idno>
+            <idno type="EEBO-CITATION">99873634</idno>
+            <idno type="PROQUEST">99873634</idno>
+            <idno type="VID">156491</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88637)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156491)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 24:E137[7])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Admirable good newes againe from Ireland. Or, the copie of a letter written from Sir Thomas Lucas, one of the commanders of our army in Ireland, to a worthy member of the House of Parliament here in England, bearing date, Fbruary [sic], 24. 1641. Wherein is a relation of two great overthrowes which was given to the rebels by the English and Scottish forces: the one before Tredarth within the province of Munster, February 23. 1641. The other gtreat [sic] victorie was obtained by the English and Scots under the command of the Earle of Dungarvin and Generall Lesley, and others, in the province of Corke, where 5000 rebels were slaine, 100 taken prisoners and executed. With the estate of Ireland at this present. Published by authority.</title>
+                  <author>Lucas, Thomas, Sir, d. 1649.</author>
+               </titleStmt>
+               <extent>[2], 5, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by T. F. for I. Thomas,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1641. [i.e. 1642]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Cork, Richard Boyle, --  Earl of, 1566-1643.</term>
+               <term>Leven, Alexander Leslie, --  Earl of, 1580?-1661.</term>
+               <term>Ireland --  History --  Rebellion of 1641 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156491:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 21 -->
+            <p>Admirable good Newes AGAINE FROM IRELAND OR, The Copie of a Letter written from Sir <hi>Tho<g ref="char:EOLhyphen"/>mas Lucas,</hi> one of the Commanders of our Army in <hi>Ireland,</hi> to a Worthy Member of the Houſe of Parliament here in <hi>England,</hi> bearing date, <hi>Fbruary,</hi> 24. 1641.</p>
+            <p>Wherein is a Relation of two great over<g ref="char:EOLhyphen"/>throwes which was given to the Rebels by the <hi>Engliſh</hi> and <hi>Scottiſh</hi> Forces.</p>
+            <p>The one before <hi>Tredarth</hi> within the Province of <hi>Munſter, February</hi> 23. 1641.</p>
+            <p>The other great Victorie was obtained by the <hi>Engliſh</hi> and <hi>Scots</hi> under the command of the Earle of <hi>Dungarvin</hi> and Generall <hi>Leſley,</hi> and others, in the Province of <hi>Corke,</hi> where 5000 Rebels were ſlaine, 100 taken pri<g ref="char:EOLhyphen"/>ſoners and executed.</p>
+            <p>With the Eſtate of <hi>Ireland</hi> at this preſent.</p>
+            <p>Publiſhed by Authority.</p>
+            <p>
+               <hi>London</hi> Printed by <hi>T. F.</hi> for <hi>I. Thomas.</hi> 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:156491:2"/>
+            <!-- PDF PAGE 22 -->
+            <pb n="1" facs="tcp:156491:2"/>
+            <!-- PDF PAGE 22 -->
+            <head>A Copie of a Letter written from Sir <hi>Thomas Lucas,</hi> one of the Comman<g ref="char:EOLhyphen"/>ders of our Army in <hi>Ireland,</hi> to a Wor<g ref="char:EOLhyphen"/>thy Member of the Parliament here in <hi>England</hi> bearing date the 24 day of <hi>February,</hi> 1641.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">B</seg>Eing ever ingaged to you by the tye of mutuall favours from time to time received from you, in part of a ſmall requi<g ref="char:EOLhyphen"/>tall, I doe ſend theſe few lines, intimating to you thereby the preſent Eſtate of our Army and this Kingdome.</p>
+            <p>When we firſt arrived in this Kingdome we happily joyned our Regiment to the forces under command of that right valiant and worthy Captain Sir <hi>Symon Harcourt</hi> neere the City of <hi>Dublin,</hi> where many of the Re<g ref="char:EOLhyphen"/>bels lay incamped, with whom we had ma<g ref="char:EOLhyphen"/>ny skirmiſhes, and by the bleſſing of God came of with advantage and loſſe to the
+<pb n="2" facs="tcp:156491:3"/>
+               <!-- PDF PAGE 23 -->adverſe party; There came on Munday was a ſeven-night laſt 9. Veſſels from <hi>Dunkirke;</hi> Laden with Proviſion of Victuals, and Am<g ref="char:EOLhyphen"/>munition; which was landed, and brought into <hi>Tredarth</hi> in the Province of <hi>Munſter,</hi> for the reliefe of that Towne, where was by the <hi>Scots</hi> and <hi>Engliſh</hi> a great overthrow given to the Rebels, in which skirmiſh was taken one Mr. <hi>White</hi> and his Sonne, and about 60. more of the Rebels, which were immediate<g ref="char:EOLhyphen"/>ly by the <hi>Engliſh</hi> executed as Traytors; The whole Province of <hi>Munſter</hi> is now revolted to the Rebels, and they have proclaimed <hi>Phi<g ref="char:EOLhyphen"/>lemy Oneale</hi> Generall of <hi>Jreland.</hi> There is alſo lately revolted to the Rebels Lord <hi>Mount<g ref="char:EOLhyphen"/>garret,</hi> the Lord <hi>Nettersfield,</hi> and his Sonne, whoſe other Son with Colonell <hi>Butler</hi> Bro<g ref="char:EOLhyphen"/>ther to the Lord <hi>Mountgarret,</hi> and Sir <hi>George Hamilton,</hi> are happily retained in <hi>England;</hi> I beleeve it will prove very difficult to ſub<g ref="char:EOLhyphen"/>due the Rebels, and reduce this Kingdome to their due Subjection to the King and Crowne of <hi>England;</hi> without a ſtrong and ſpeedy ſupply of more Men, and Ammuni<g ref="char:EOLhyphen"/>tion from <hi>England;</hi> We Rejoyce much at the care of the High Court of Parliament,
+<pb n="3" facs="tcp:156491:3"/>
+               <!-- PDF PAGE 23 -->whoſe endeavours &amp; hearty affection are no waies wanting to aſſiſt and relieve vs in time if poſſible it can be effected; We alſo Re<g ref="char:EOLhyphen"/>joyce with Thankfulneſſe at the proffer of the City of LONDON of Money, (which we are given to vnderſtand, towards our aſ<g ref="char:EOLhyphen"/>ſiſtance in ſubduing the Rebels.</p>
+            <p>There hath beene this laſt Weeke a Bat<g ref="char:EOLhyphen"/>tell fought with the Rebels in the Province of <hi>Corke</hi> by the <hi>Engliſh</hi> and <hi>Scots,</hi> under the command of the Lord <hi>Dungarvan,</hi> Generall <hi>Leſley,</hi> and others; Wherein as we are in<g ref="char:EOLhyphen"/>formed were ſlaine 5000. of the Rebels and about 200. of <hi>Engliſh</hi> and <hi>Scots,</hi> about 100. taken Priſoners, the greateſt part of them Executed, and of Ammunition and Proviſi<g ref="char:EOLhyphen"/>on ſufficient to mainetaine 500. Men for 3. Moneths; We have Notice of a Roman Prieſt, that was ſent from the <hi>Pope,</hi> that is landed in <hi>England,</hi> and hath there wrought with divers <hi>Engliſh</hi> Catholiques, for to pre<g ref="char:EOLhyphen"/>pare themſelves in readineſſe to put in Ex<g ref="char:EOLhyphen"/>ecution any deſigne that ſhall bee pro<g ref="char:EOLhyphen"/>pounded to them, for the defence of their Religion and deſtruction of the Prote<g ref="char:EOLhyphen"/>ſtants in that Kingdome, which Prieſt is (as
+<pb n="4" facs="tcp:156491:4"/>
+               <!-- PDF PAGE 24 -->is reported) intended to come for <hi>Ireland,</hi> and in his Journey did deale with a Papiſt skilfull in making of <hi>Granadoes,</hi> and all ſorts of Fire-workes, to practiſe the ſame Act, and to put the ſame in Execution againſt the chie<g ref="char:EOLhyphen"/>feſt Cities of <hi>England,</hi> for Conquering the ſame when the Rebels had Conquered <hi>Ire<g ref="char:EOLhyphen"/>land,</hi> and landed their Forces in <hi>England,</hi> which Papiſt and Prieſt, we wiſh may in time be diſcovered and apprehended, leaſt their Diveliſh deſigns may take effect, which God forbid, and grant peace to his <hi>Iſrael</hi> un<g ref="char:EOLhyphen"/>der the lawfull juriſdiction of our gracious Soveraigne in all his Majeſties Kingdomes of <hi>England, Scotland,</hi> and <hi>Ireland,</hi> the Savage cruelties and inhumane Maſſacres of the Proteſtants by the Rebels, are notorious to all men, I need no more to certifie them, one<g ref="char:EOLhyphen"/>ly ſtay, they ſtill continue the ſame, where<g ref="char:EOLhyphen"/>ſoever they overcome any of the Proteſtants. We alſo returne humble and hearty thankes to the Parliament for their great care in the choiſe of able and faithfull Commanders for this ſervice, that are good Proteſtants, for there be but very few that are yet come o<g ref="char:EOLhyphen"/>ver, that have any Alliance or friends in the
+<pb n="5" facs="tcp:156491:4"/>
+               <!-- PDF PAGE 24 -->Rebellion, or favourers of their cauſe, but e<g ref="char:EOLhyphen"/>ſpecially of that Religion, but are either re<g ref="char:EOLhyphen"/>volted unto them, or put forth publiquely ſpeeches in favour of them, or are negligent and remiſſe in diſcharge of their duties to their King and Countrey, in places of truſt and command committed to their fidelity, by which opportunity of advantage is ma<g ref="char:EOLhyphen"/>ny times given to the Rebels; and proves great dammage to their Souldiers by which many are diſheartned and diſcouraged in their particular Offices; which we heartily wiſh may be Amended, and by the wiſe<g ref="char:EOLhyphen"/>dome of the Parliament, for future time pre<g ref="char:EOLhyphen"/>vented, And thus worthy Sir, not minding to bee too tedious to you, but wiſhing you and yours all Health and Happineſſe, both Spirituall and Corporall, and ſuch good ſuc<g ref="char:EOLhyphen"/>ceſſe to the proceedings in Parliament, that it may prove the everlaſting peace both of his Sacred Majeſty and all his Kingdomes.</p>
+            <closer>
+               <signed>Your affectionate friend,
+<hi>Thomas Lucas.</hi>
+               </signed>
+               <dateline>Dublin <date>the 24. of Febr. 1641.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
